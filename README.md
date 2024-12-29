@@ -23,10 +23,7 @@ A sleek, responsive, and modern **Age Calculator** web application built using H
 
 ## 🚀 Live Demo
 
-Check out the live version of the project here: [Live Link](#)  
-(*Replace `#` with the URL of your live project after deployment.*)
-
----
+Check out the live version of the project here: [Live Link](https://kip-rotich46.github.io/CodeAlpha_AgeCalculator_Gideon/)  
 
 ## 🛠️ Technologies Used
 
